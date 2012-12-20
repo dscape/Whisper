@@ -4,7 +4,7 @@ For sharing briefly.
 
 Current version: 0.1.9
 
-[![Nodejitsu Deploy Status Badges](https://webhooks.nodejitsu.com/talon/Whisper.png)](https://webops.nodejitsu.com#talon/Whisper)
+[![Nodejitsu Deploy Status Badges](https://webhooks.nodejitsu.com/LegitTalon/Whisper)](https://webops.nodejitsu.com#LegitTalon/Whisper)
 
 Built with node.js and socket.io whisper displays only the last words sent to it.
 View a live sample at http://whisper.jit.su
