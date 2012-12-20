@@ -1,0 +1,18 @@
+{
+  "name": "Whisper",
+  "subdomain": "whisper",
+  "domains": [
+    "whisperto.theghostin.me"
+  ],
+  "scripts": {
+    "start": "server.js"
+  },
+  "version": "0.1.8-4",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "express": "~3.0.4",
+    "socket.io": "~0.9.13"
+  }
+}
