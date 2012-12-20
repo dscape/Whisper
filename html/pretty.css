@@ -7,6 +7,10 @@ html, body {
 	padding:0;
 	height:100%;
 }
+#error{
+	color:red;
+	font-size:50%;
+}
 #theBox{
 	min-height:100%;
 	position:relative;
@@ -30,7 +34,7 @@ html, body {
 	position:fixed;
 	bottom:0;
 	width:100%;
-	height:115px;
+	height:95px;
 	z-index:23;
 }
 input {
